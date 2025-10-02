@@ -1,0 +1,144 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+  <Name>Applications</Name>
+  
+  <Menu>
+      <Name>Intelligent Gathering</Name>
+      <Directory>leakos-intelligent-gather.directory</Directory>
+      <Include>
+        <Category>LEAKOS-intelligent-gather</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Vulnerability Assessment</Name>
+      <Directory>leakos-vuln-assess.directory</Directory>
+      <Include>
+        <Category>LEAKOS-vuln-assess</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Exploitation Testing</Name>
+      <Directory>leakos-exploit-test.directory</Directory>
+      <Include>
+        <Category>LEAKOS-exploit-test</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Wireless, Bluetooth &amp; Radio</Name>
+      <Directory>leakos-wireless.directory</Directory>
+      <Include>
+        <Category>LEAKOS-wireless</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Password Attack</Name>
+      <Directory>leakos-password.directory</Directory>
+      <Include>
+        <Category>LEAKOS-password</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Social Engineering</Name>
+      <Directory>leakos-social.directory</Directory>
+      <Include>
+        <Category>LEAKOS-social</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Man In The Middle Attack (MITM)</Name>
+      <Directory>leakos-mitm.directory</Directory>
+      <Include>
+        <Category>LEAKOS-mitm</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Stress Testing</Name>
+      <Directory>leakos-stress.directory</Directory>
+      <Include>
+        <Category>LEAKOS-stress</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Maintaining Access</Name>
+      <Directory>leakos-maintain.directory</Directory>
+      <Include>
+        <Category>LEAKOS-maintain</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Forensics Analysis</Name>
+      <Directory>leakos-forensic.directory</Directory>
+      <Include>
+        <Category>LEAKOS-forensic</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Reverse Engineering</Name>
+      <Directory>leakos-reverse.directory</Directory>
+      <Include>
+        <Category>LEAKOS-reverse</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Malware Analysis</Name>
+      <Directory>leakos-malware.directory</Directory>
+      <Include>
+        <Category>LEAKOS-malware</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Covering Track</Name>
+      <Directory>leakos-cover.directory</Directory>
+      <Include>
+        <Category>LEAKOS-cover</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>Service</Name>
+      <Directory>leakos-service.directory</Directory>
+      <Include>
+        <Category>LEAKOS-service</Category>
+      </Include>
+    </Menu>
+
+    <Menu>
+      <Name>Internet</Name>
+      <Directory>leakos-internet.directory</Directory>
+      <Include>
+        <Category>LEAKOS-internet</Category>
+      </Include>
+    </Menu>
+
+    <Menu>
+      <Name>Multimedia</Name>
+      <Directory>leakos-multimedia.directory</Directory>
+      <Include>
+        <Category>LEAKOS-multimedia</Category>
+      </Include>
+    </Menu>
+    
+    <Menu>
+      <Name>File &amp; Games</Name>
+      <Directory>leakos-file-games.directory</Directory>
+      <Include>
+        <Category>LEAKOS-file-games</Category>
+      </Include>
+    </Menu>
+    
+  </Menu>
+</Menu>
